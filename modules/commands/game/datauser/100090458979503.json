@@ -1,0 +1,29 @@
+{
+  "name": "Khanh Shado",
+  "ID": "100090458979503",
+  "mainROD": null,
+  "GPS": {
+    "locate": null,
+    "area": null
+  },
+  "fishBag": [
+    {
+      "ID": 0,
+      "name": "Đừng bán con cá này ko là lỗi tao đéo chịu trách nhiệm đâu",
+      "category": "Legendary",
+      "size": 999999,
+      "sell": 0
+    }
+  ],
+  "item": [
+    {
+      "name": "Harpak",
+      "price": 1312350000,
+      "durability": 120000,
+      "countdown": 1,
+      "countdownData": null,
+      "image": "https://i.imgur.com/S7eXgbY.png"
+    }
+  ],
+  "timeRegister": "09:17:42, 14/5/2023"
+}
